@@ -1,5 +1,4 @@
-## Project Othllo
+## Othello game
 
 A Graphical UI application of Othello game.  
-The final project in "Object Oriented Programming in C# and the .NET
-Framework" course.
+A project in "Object Oriented Programming in C# and the .NET Framework" course.
